@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm Anuja Ugale
 
-<!--
-**anujaugale617/anujaugale617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+# 🌐 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://linkedin.com/in/anuja-ugale-69a29033b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ugaleanuja0617@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+# 🎓 Education
+B.E. in Computer Engineering, Dr. D. Y. Patil Institute of Technology, Pune (2024–2028)
+
+CGPA: 8.92 / 10
+
+
+# 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" />
+    </td>
+  </tr>
+
+<tr>
+  <td><b>Frontend</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </td>
+</tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+
+<tr>
+  <td><b>Data & AI</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </td>
+</tr>
+
+  <tr>
+    <td><b>Core CS</b></td>
+    <td>
+      Data Structures & Algorithms, OOP, DBMS, Operating Systems,
+      Computer Networks, System Design
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+⭐ Thanks for visiting my profile!
+
+Let's connect, build, and learn together. 🚀
