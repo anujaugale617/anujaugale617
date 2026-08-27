@@ -38,7 +38,6 @@ CGPA: 8.92 / 10
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=nextjs" />
-    <img src="https://skillicons.dev/icons?i=vite" />
   </td>
 </tr>
 
